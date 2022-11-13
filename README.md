@@ -1,6 +1,6 @@
 ### Hi there, I'm Abbas Mazrouei Sebdani
 
-- 🦾 I'm a biomedical AI developer
+- 🦾 I'm a Software (Biomedical AI) developer
 -----------------------------------
 - 💻 I’m currently working on High-Tech products, Including:
 MRI, Radiography, CT scan and TPS (radiotherapy machines)

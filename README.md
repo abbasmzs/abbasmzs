@@ -10,13 +10,11 @@ Image & Signal processing, Computer Vision, Machine Learning & Deep Learning (AI
 <img src="brain-all.png">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/><br />
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Cpp Logo" width="50" height="50"/><br />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB Logo" width="50" height="50"/><br />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/><br />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB Logo" width="50" height="50"/><br />
 ---
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GO Golang Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50" /><img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/><br />
@@ -25,9 +23,10 @@ Image & Signal processing, Computer Vision, Machine Learning & Deep Learning (AI
 width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/><br />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes K8s Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="Laravel Logo" width="50" height="50"/><br />
----
 
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku Logo" width="50" height="50"/>
+
+---
 
 You can reach me at 
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/abbas-mazrouei).

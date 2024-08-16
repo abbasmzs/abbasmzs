@@ -15,7 +15,7 @@ Image & Signal processing, Computer Vision, Machine Learning & Deep Learning (AI
 
 ---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GO Golang Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50" /><img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/><br />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GO Golang Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" alt="Bash Logo" width="50" height="50"/><br />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB Logo" 
 width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/><br />
